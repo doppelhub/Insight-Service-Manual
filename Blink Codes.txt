@@ -1,0 +1,17 @@
+https://docs.google.com/spreadsheets/d/1bLUyuFXWywH0PIzTXYtT6UprBNkOtjnWh5PFKjDFylA/pubhtml
+
+Reset SRS light:
+0.) Make sure the ignition switch is OFF. 
+1.) Unplug the yellow MES connector from the cabin fuse panel (it has LT-GRN/BLK & BLK/BLK wires).
+2.) Short the two pins on the MES connector. 
+3.) Turn the ignition switch ON. The SRS light comes on for six seconds.
+4.) When the SRS light turns off, remove the short within 4 seconds. 
+5.) When the SRS indicator light turns on, short the two pins again, within 4 seconds. 
+6.) When the SRS indicator light turns off, remove the short within 4 seconds. 
+7.) The SRS indicator light indicates that the memory is erased by blinking two times. 
+8.) Turn the ignition switch OFF, and wait for ten seconds.
+
+Reset Maintenance Required light:
+1. turn off car
+2. hold trip button while turning ignition to on - do not start engine.
+3. after 10 seconds the light should turn off
