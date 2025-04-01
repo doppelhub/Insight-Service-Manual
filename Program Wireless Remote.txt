@@ -1,0 +1,21 @@
+1) get into the car shut the doors and make sure they are unlocked
+
+2) keyOn
+3) press remote lock button
+4) keyACC
+
+5) keyOn
+6) press remote lock button
+7) keyACC
+
+8) keyOn
+9) press remote lock button
+10) keyACC
+
+11) keyOn
+12) press remote lock button. The locks should chirp to indicate that programming mode was entered successfully
+
+13) press the LOCK button on each remote the doors should chirp after each remote to confirm programming
+
+14) keyOff
+15) Verify remotes work
